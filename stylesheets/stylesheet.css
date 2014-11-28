@@ -45,7 +45,7 @@ header h2 {
 .inner {
   width: 720px;
   height: 680px;
-  margin: -10 auto;
+  margin: 0 auto;
 }
 
 #container .inner img {
