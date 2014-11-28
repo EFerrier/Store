@@ -11,11 +11,11 @@ body {
   line-height: 1.5; 
   background: url('http://www.malibudreamland.com/wp-content/uploads/2012/08/81_14nightshot.jpg');
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  color: #CCCCCC;
+  color: #FFFFFF;
 }
 
 a {
-  color: #d5000d;
+  color: #FFFFFF;
 }
 a:hover {
   color: #c5000c;
@@ -201,12 +201,12 @@ h1 {
 h2 {
   font-size: 22px;
   font-weight: bold;
-  color: #303030;
+  color: #FFFFFF;
   margin-bottom: 8px;
 } 
 
 h3 {
-  color: #303030;
+  color: #FFFFFF;
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -214,7 +214,7 @@ h3 {
  
 h4 {
   font-size: 16px;
-  color: #303030;
+  color: #FFFFFF;
   font-weight: bold;
 } 
 
