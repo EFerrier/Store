@@ -9,7 +9,7 @@
 body {
   font-size: 1em;
   line-height: 1.5; 
-  background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
+  background: url('http://www.travelization.net/wp-content/uploads/2012/09/stars-over-malibu-los-angeles-wallpapers-1280x1024.jpg');
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   color: #6d6d6d;
@@ -52,7 +52,6 @@ header h2 {
   width: 1024px;
   height: 1280px;
   margin: 0 auto;
-  background-image:url('http://www.travelization.net/wp-content/uploads/2012/09/stars-over-malibu-los-angeles-wallpapers-1280x1024.jpg');
 }
 
 #container .inner img {
