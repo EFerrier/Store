@@ -11,7 +11,7 @@ body {
   line-height: 1.5; 
   background: url('http://www.malibudreamland.com/wp-content/uploads/2012/08/81_14nightshot.jpg');
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  color: #6d6d6d;
+  color: #CCCCCC;
 }
 
 a {
@@ -30,14 +30,14 @@ header h1 {
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; font-weight: 900;
   letter-spacing: -1px;
   font-size: 48px;
-  color: #333333;
+  color: #FFFFFF;
   line-height: 1.2;
 }
 
 header h2 {
   letter-spacing: -1px;
   font-size: 24px;
-  color: #aaa;
+  color: #FFFFFF;
   font-weight: normal;
   line-height: 1.3;
 }
