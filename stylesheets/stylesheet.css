@@ -49,8 +49,10 @@ header h2 {
 }
 
 .inner {
-  width: 620px;
+  width: 1024px;
+  height: 1280px;
   margin: 0 auto;
+  background-image:url('http://www.travelization.net/wp-content/uploads/2012/09/stars-over-malibu-los-angeles-wallpapers-1280x1024.jpg');
 }
 
 #container .inner img {
